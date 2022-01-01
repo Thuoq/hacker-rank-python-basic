@@ -1,9 +1,8 @@
 '''
 Title     : Write a function
 Subdomain : Introduction
-Domain    : Python
-Author    : Ahmedur Rahman Shovon
-Created   : 06 July 2020
+Author: ThuongLe
+
 Problem   : https://www.hackerrank.com/challenges/write-a-function/problem
 '''
 def is_leap(year):

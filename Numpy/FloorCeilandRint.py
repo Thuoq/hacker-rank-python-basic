@@ -1,10 +1,9 @@
 '''
 Title     : Floor, Ceil and Rint
 Subdomain : Numpy
-Domain    : Python
-Author    : Ahmedur Rahman Shovon
-Created   : 15 July 2016
-Updated   : 17 March 2021
+Author: ThuongLe
+
+.   : 17 March 2021
 Problem   : https://www.hackerrank.com/challenges/floor-ceil-and-rint/problem
 '''
 import numpy as np

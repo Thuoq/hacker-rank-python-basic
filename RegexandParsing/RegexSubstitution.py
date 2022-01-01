@@ -1,9 +1,8 @@
 '''
 Title     : Regex Substitution
 Subdomain : Regex and Parsing
-Domain    : Python
-Author    : Ahmedur Rahman Shovon
-Created   : 15 July 2016
+Author: ThuongLe
+
 Problem   : https://www.hackerrank.com/challenges/re-sub-regex-substitution/problem
 '''
 import re, sys

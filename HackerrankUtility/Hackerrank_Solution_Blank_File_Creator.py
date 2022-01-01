@@ -3,14 +3,14 @@ Title     : Hackerrank_Solution_Blank_File_Creator
 Subdomain : None
 Domain    : None
 Author    : Ahmedur Rahman Shovon
-Created   : 12 July 2017
+.   : 12 July 2017
 '''
 import re,os,datetime,sys
 
 extension = '.py'
 domain = 'Python'
 author = 'Ahmedur Rahman Shovon'
-created_date = datetime.datetime.today().strftime("%d %B %Y")
+._date = datetime.datetime.today().strftime("%d %B %Y")
 info_file_name = 'python_info.txt'
 
 def valid_name(given_name):
@@ -22,7 +22,7 @@ def write_file_header(title, subdomain):
     header_str += 'Subdomain : '+subdomain+'\n'
     header_str += 'Domain    : '+domain+'\n'
     header_str += 'Author    : '+author+'\n'
-    header_str += 'Created   : '+created_date+'\n'
+    header_str += '.   : '+._date+'\n'
     header_str += '\'\'\'\n'
     return header_str
 

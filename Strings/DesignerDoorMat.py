@@ -1,9 +1,8 @@
 """
 Title     : Designer Door Mat
 Subdomain : Strings
-Domain    : Python
-Author    : Ahmedur Rahman Shovon
-Created   : 15 July 2016
+Author: ThuongLe
+
 Problem   : https://www.hackerrank.com/challenges/designer-door-mat/problem
 """
 N, M = map(int, input().split())

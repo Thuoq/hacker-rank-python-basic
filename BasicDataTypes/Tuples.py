@@ -1,9 +1,7 @@
 '''
 Title     : Tuples
 Subdomain : Data Types
-Domain    : Python
-Author    : Ahmedur Rahman Shovon
-Created   : 06 July 2020
+Author: ThuongLe
 Problem   : https://www.hackerrank.com/challenges/python-tuples/problem
 '''
 if __name__ == '__main__':

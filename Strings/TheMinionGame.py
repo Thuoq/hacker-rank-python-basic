@@ -1,9 +1,8 @@
 '''
 Title     : The Minion Game
 Subdomain : Strings
-Domain    : Python
-Author    : Ahmedur Rahman Shovon
-Created   : 15 July 2016
+Author: ThuongLe
+
 Problem   : https://www.hackerrank.com/challenges/the-minion-game/problem
 '''
 s = input().strip()

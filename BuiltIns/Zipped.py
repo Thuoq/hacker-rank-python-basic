@@ -1,9 +1,7 @@
 '''
 Title     : Zipped!
 Subdomain : Built-Ins
-Domain    : Python
-Author    : Ahmedur Rahman Shovon
-Created   : 15 July 2016
+Author: ThuongLe
 Problem   : https://www.hackerrank.com/challenges/zipped/problem
 '''
 n, x = map(int,input().split())

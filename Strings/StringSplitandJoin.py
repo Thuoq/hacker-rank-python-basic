@@ -1,9 +1,8 @@
 """
 Title     : String Split and Join
 Subdomain : Strings
-Domain    : Python
-Author    : Ahmedur Rahman Shovon
-Created   : 08 July 2020
+Author: ThuongLe
+.   : 08 July 2020
 Problem   : https://www.hackerrank.com/challenges/python-string-split-and-join/problem
 """
 

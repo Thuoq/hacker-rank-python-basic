@@ -1,9 +1,8 @@
 '''
 Title     : Inner and Outer
 Subdomain : Numpy
-Domain    : Python
-Author    : Ahmedur Rahman Shovon
-Created   : 15 July 2016
+Author: ThuongLe
+
 Problem   : https://www.hackerrank.com/challenges/np-inner-and-outer/problem
 '''
 import numpy

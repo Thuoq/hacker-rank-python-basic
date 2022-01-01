@@ -1,9 +1,8 @@
 '''
 Title     : Standardize Mobile Number Using Decorators
 Subdomain : Closures and Decorators
-Domain    : Python
-Author    : Ahmedur Rahman Shovon
-Created   : 15 July 2016
+Author: ThuongLe
+
 Problem   : https://www.hackerrank.com/challenges/standardize-mobile-number-using-decorators/problem
 '''
 # Enter your code here. Read input from STDIN. Print output to STDOUT

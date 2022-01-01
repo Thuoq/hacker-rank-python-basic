@@ -1,9 +1,7 @@
 '''
 Title     : Class 2 - Find the Torsional Angle
 Subdomain : Classes
-Domain    : Python
-Author    : Ahmedur Rahman Shovon
-Created   : 15 July 2016
+Author: ThuongLe
 Problem   : https://www.hackerrank.com/challenges/class-2-find-the-torsional-angle/problem
 '''
 # Enter your code here. Read input from STDIN. Print output to STDOUT

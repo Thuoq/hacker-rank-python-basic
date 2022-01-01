@@ -1,9 +1,8 @@
 '''
 Title     : String Formatting
 Subdomain : Strings
-Domain    : Python
-Author    : Ahmedur Rahman Shovon
-Created   : 15 July 2016
+Author: ThuongLe
+
 Problem   : https://www.hackerrank.com/challenges/python-string-formatting/problem
 '''
 n = int(input().strip())

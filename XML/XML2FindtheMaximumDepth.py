@@ -1,9 +1,8 @@
 '''
 Title     : XML2 - Find the Maximum Depth
 Subdomain : XML
-Domain    : Python
-Author    : Ahmedur Rahman Shovon
-Created   : 15 July 2016
+Author: ThuongLe
+
 Problem   : https://www.hackerrank.com/challenges/xml2-find-the-maximum-depth/problem
 '''
 # Enter your code here. Read input from STDIN. Print output to STDOUT

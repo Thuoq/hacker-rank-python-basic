@@ -1,9 +1,8 @@
 '''
 Title     : Python: Division
 Subdomain : Introduction
-Domain    : Python
-Author    : Ahmedur Rahman Shovon
-Created   : 06 July 2020
+Author: ThuongLe
+
 Problem   : https://www.hackerrank.com/challenges/python-division/problem
 '''
 if __name__ == '__main__':

@@ -1,9 +1,8 @@
 '''
 Title     : Alphabet Rangoli
 Subdomain : Strings
-Domain    : Python
-Author    : Ahmedur Rahman Shovon
-Created   : 15 July 2016
+Author: ThuongLe
+
 Problem   : https://www.hackerrank.com/challenges/alphabet-rangoli/problem
 '''
 n = int(input().strip())

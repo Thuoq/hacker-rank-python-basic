@@ -1,10 +1,9 @@
 '''
 Title     : Symmetric Difference
 Subdomain : Sets
-Domain    : Python
-Author    : Ahmedur Rahman Shovon
-Created   : 15 July 2016
-Updated   : 15 March 2021
+Author: ThuongLe
+
+.   : 15 March 2021
 Problem   : https://www.hackerrank.com/challenges/symmetric-difference/problem
 '''
 m = int(input())

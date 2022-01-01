@@ -2,8 +2,8 @@
 Title     : Merge The Tools!
 Subdomain : Strings
 Domain    : Python
-Author    : Atharva Shah
-Created   : 15 March 2021
+
+.   : 15 March 2021
 Problem   : https://www.hackerrank.com/challenges/merge-the-tools/
 '''
 from collections import OrderedDict

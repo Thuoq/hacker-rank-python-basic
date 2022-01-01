@@ -1,10 +1,9 @@
 '''
 Title     : Decorators 2 - Name Directory
 Subdomain : Closures and Decorators
-Domain    : Python
-Author    : Ahmedur Rahman Shovon
-Created   : 15 July 2016
-Updated   : 3 April 2021
+Author: ThuongLe
+
+
 Problem   : https://www.hackerrank.com/challenges/decorators-2-name-directory/problem
 '''
 

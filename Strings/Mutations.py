@@ -1,10 +1,9 @@
 """
 Title     : Mutations
 Subdomain : Strings
-Domain    : Python
-Author    : Ahmedur Rahman Shovon
-Created   : 15 July 2016
-Updated   : 08 July 2020
+Author: ThuongLe
+
+.   : 08 July 2020
 Problem   : https://www.hackerrank.com/challenges/python-mutations/problem
 """
 

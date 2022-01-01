@@ -1,9 +1,8 @@
 '''
 Title     : Arithmetic Operators
 Subdomain : Introduction
-Domain    : Python
-Author    : Ahmedur Rahman Shovon
-Created   : 15 April 2020
+Author: ThuongLe
+.   : 15 April 2020
 Problem   : https://www.hackerrank.com/challenges/python-arithmetic-operators/problem
 '''
 if __name__ == '__main__':

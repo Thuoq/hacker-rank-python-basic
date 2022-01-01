@@ -1,9 +1,8 @@
 '''
 Title     : itertools.product()
 Subdomain : Itertools
-Domain    : Python
-Author    : Ahmedur Rahman Shovon
-Created   : 15 July 2016
+Author: ThuongLe
+
 Problem   : https://www.hackerrank.com/challenges/itertools-product/problem
 '''
 import itertools

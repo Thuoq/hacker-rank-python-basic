@@ -1,9 +1,8 @@
 '''
 Title     : Iterables and Iterators
 Subdomain : Itertools
-Domain    : Python
-Author    : Ahmedur Rahman Shovon
-Created   : 15 July 2016
+Author: ThuongLe
+
 Problem   : https://www.hackerrank.com/challenges/iterables-and-iterators/problem
 '''
 from itertools import combinations

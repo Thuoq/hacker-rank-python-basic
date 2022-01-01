@@ -1,9 +1,8 @@
 '''
 Title     : Mean, Var, and Std
 Subdomain : Numpy
-Domain    : Python
-Author    : Ahmedur Rahman Shovon
-Created   : 15 July 2016
+Author: ThuongLe
+
 Problem   : https://www.hackerrank.com/challenges/np-mean-var-and-std/problem
 '''
 import numpy

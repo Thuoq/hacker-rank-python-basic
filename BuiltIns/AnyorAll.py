@@ -1,9 +1,7 @@
 '''
 Title     : Any or All
 Subdomain : Built-Ins
-Domain    : Python
-Author    : Ahmedur Rahman Shovon
-Created   : 15 July 2016
+Author: ThuongLe
 Problem   : https://www.hackerrank.com/challenges/any-or-all/problem
 '''
 n = int(input())

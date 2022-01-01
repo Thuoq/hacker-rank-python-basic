@@ -1,9 +1,8 @@
 '''
 Title     : Print Function
 Subdomain : Introduction
-Domain    : Python
-Author    : Ahmedur Rahman Shovon
-Created   : 06 July 2020
+Author: ThuongLe
+
 Problem   : https://www.hackerrank.com/challenges/python-print/problem
 '''
 

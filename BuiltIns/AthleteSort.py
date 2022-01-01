@@ -2,8 +2,8 @@
 Title     : Athlete Sort
 Subdomain : Built-Ins
 Domain    : Python
-Author    : Atharva Shah
-Created   : 3 April 2021
+
+
 Problem   : https://www.hackerrank.com/challenges/python-sort-sort/problem
 '''
 

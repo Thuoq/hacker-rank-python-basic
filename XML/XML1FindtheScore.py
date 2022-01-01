@@ -1,9 +1,8 @@
 '''
 Title     : XML 1 - Find the Score
 Subdomain : XML
-Domain    : Python
-Author    : Ahmedur Rahman Shovon
-Created   : 15 July 2016
+Author: ThuongLe
+
 Problem   : https://www.hackerrank.com/challenges/xml-1-find-the-score/problem
 '''
 # Enter your code here. Read input from STDIN. Print output to STDOUT
